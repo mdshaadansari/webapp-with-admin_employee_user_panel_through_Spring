@@ -2,7 +2,7 @@
 this project(webapp) belongs to the work came to my company , below points are just summary in my words what is assigned throughout the development in sprint,
 -webapp is for managing project that came from client,
 -admin can onboard/release employee on project
--admin,employee,client can login with otp
+-admin,employee,client can login with otp 
 -however employee, client account creation can be only done by admin, and login credentials will be sent over their email
 -their are lot of filters to search client, project, employee based on different criteria
 -must go to screenshots of whole project i provided in webapp-screenshot folder
